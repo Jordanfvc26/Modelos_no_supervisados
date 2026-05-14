@@ -1,3 +1,4 @@
+![visualizaciones](ruta/de/la/imagen.png)
 # Segmentación de clientes de un centro comercial
 
 ## Descripción del problema
